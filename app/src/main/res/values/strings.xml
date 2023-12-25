@@ -2,4 +2,6 @@
     <string name="app_name">VP_ALP</string>
     <string name="title_activity_my_resto_reviews_view">MyRestoReviewsView</string>
     <string name="title_activity_my_food_reviews_view">MyFoodReviewsView</string>
+    <string name="title_activity_rating_forms">RatingForms</string>
+    <string name="title_activity_rating_forms_view">RatingFormsView</string>
 </resources>
