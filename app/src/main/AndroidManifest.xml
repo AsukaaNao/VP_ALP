@@ -12,7 +12,22 @@
         android:theme="@style/Theme.JetComposeLoginUI">
 
         <activity
-            android:name="com.example.foodstore.MainActivity"
+            android:name=".ui.theme.view.ui.theme.RatingForms"
+            android:exported="false"
+            android:label="@string/title_activity_rating_forms"
+            android:theme="@style/Theme.VP_ALP" />
+        <activity
+            android:name=".ui.theme.view.MyFoodReviewsView"
+            android:exported="false"
+            android:label="@string/title_activity_my_food_reviews_view"
+            android:theme="@style/Theme.VP_ALP" />
+        <activity
+            android:name=".ui.theme.view.MyRestoReviewsView"
+            android:exported="false"
+            android:label="@string/title_activity_my_resto_reviews_view"
+            android:theme="@style/Theme.VP_ALP" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.JetComposeLoginUI.NoActionBar">
